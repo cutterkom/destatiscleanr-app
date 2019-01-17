@@ -2,7 +2,7 @@
 
 This is the code for the Shiny app ["Destatiscleaner"](). It imports and cleans data from official German statistical offices to jump-start the data analysis.
 
-* Link to web app [Destatiscleaner](apps.katharinabrunner.de:3838/destatiscleaner).
+* Link to web app [Destatiscleaner](apps.katharinabrunner.de/destatiscleaner).
 * It uses the [R package destatiscleanr](https://github.com/cutterkom/destatiscleanr).
 
 ## Background
